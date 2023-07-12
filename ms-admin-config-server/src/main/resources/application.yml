@@ -6,14 +6,25 @@ spring:
     name: ms-admin-config-server
     
 #Configuracion Local
-  profiles:
-    active: native
+  # profiles:
+  #   active: native
     
+  # cloud:
+  #   config:
+  #     server:
+  #       native:
+  #         search-locations: ///D:\PROYECTO AA4\ms-gestion-config-data
+      
+ 
+# #Configuracion Cloud (git)
   cloud:
     config:
       server:
-        native:
-          search-locations: ///D:\PROYECTO AA4\ms-gestion-config-data
-      
- 
-      
+        git:
+          uri: https://github.com/AndrewCR2/Backend-Varak.git
+          searchPaths: ms-gestion-config-data
+          username: ${USER_NAME}
+          password: ${USER_PASSWORD}
+          default-label: main
+          cloneOnStart: true
+          ignore-local-ssh-settings: true            

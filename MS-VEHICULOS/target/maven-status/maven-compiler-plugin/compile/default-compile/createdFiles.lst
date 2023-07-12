@@ -1,0 +1,7 @@
+com\mantenimiento\spring\MsVehiculos.class
+com\mantenimiento\spring\models\exceptions\GlobalExceptionHandler.class
+com\mantenimiento\spring\models\exceptions\ResorceNotFoundException.class
+com\mantenimiento\spring\models\Vehiculo.class
+com\mantenimiento\spring\repositorio\VehiculoRepositorio.class
+com\mantenimiento\spring\models\exceptions\ErrorDetails.class
+com\mantenimiento\spring\controller\VehiculoRestController.class

@@ -4,17 +4,12 @@ D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\LoginRe
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\MsUsuario.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\exceptions\ErrorDetails.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\repositorio\PersonalRepositorio.java
-D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Vehiculo.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\repositorio\ReservaRepositorio.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\repositorio\ClienteRepositorio.java
-D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Cliente.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\dao\UsuarioDaoImp.java
-D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Sede.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\AuthResponse.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\controller\AuthController.java
-D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Reserva.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Usuario.java
-D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\models\Personal.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\repositorio\SedeRepositorio.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\repositorio\VehiculoRepositorio.java
 D:\PROYECTO AA4\MS-USUARIO\src\main\java\com\mantenimiento\spring\utils\JWTUtil.java
